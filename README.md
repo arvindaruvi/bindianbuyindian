@@ -1,3 +1,2 @@
-# bindianbuyindian
-Save indian economy
-f
+# bindiabuyindia
+site to increase indian economy.
